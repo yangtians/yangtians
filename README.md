@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+张清流's+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=everyone&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 
 </p>
 
