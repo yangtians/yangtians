@@ -1,5 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+张清流's+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 
 </p>
 
