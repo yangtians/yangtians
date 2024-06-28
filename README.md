@@ -28,7 +28,8 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="[https://github.com/yangtians](https://github.com/yangtians/yangtians/blob/main/README.md)"><img src="https://img.shields.io/badge/GitHub-杨天顺-green?logo=github" /></a>
+<a href="https://github.com/yangtians"><img src="https://img.shields.io/badge/GitHub-yts-green?logo=github" /></a>
+
 <img src="https://img.shields.io/badge/QQ-351961796-green?logo=tencentqq" />
 
 <img src="[https://img.shields.io/badge/QQ-351961796-blue?logo=tencentqq](https://img.shields.io/badge/runningmonkey0-a?logo=wechat&labelColor=white&color=gray)" />
